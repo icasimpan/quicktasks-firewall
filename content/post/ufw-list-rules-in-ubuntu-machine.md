@@ -1,7 +1,7 @@
 ---
 title: "ufw: List Rules in Ubuntu Machine"
 date: 2019-09-21T00:20:25+08:00
-tags: [firewall]
+tags: [firewall, ufw, ubuntu]
 draft: false
 ---
 
