@@ -1,7 +1,7 @@
 ---
 title: "Specific IP Connection to SSH Using Firewalld Rich Rules"
 date: 2019-09-28T00:20:25+08:00
-tags: [firewall]
+tags: [firewall, firewalld, rich-rules]
 draft: false
 ---
 
