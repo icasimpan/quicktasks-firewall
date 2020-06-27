@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/post/</loc>
+    <lastmod>2019-09-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/tags/firewall/</loc>
+    <lastmod>2019-09-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/tags/firewalld/</loc>
+    <lastmod>2019-09-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/firewalld-reading-materials/</loc>
+    <lastmod>2019-09-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/tags/iptables/</loc>
+    <lastmod>2019-09-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/iptables-allow-specific-ip-to-ssh/</loc>
+    <lastmod>2019-09-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/tags/rich-rules/</loc>
+    <lastmod>2019-09-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/specific-ip-connection-to-ssh-using-firewalld-rich-rules/</loc>
+    <lastmod>2019-09-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/tags/specific-ip/</loc>
+    <lastmod>2019-09-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/tags/ssh/</loc>
+    <lastmod>2019-09-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/tags/</loc>
+    <lastmod>2019-09-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/tags/ufw/</loc>
+    <lastmod>2019-09-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/ufw-reading-materials/</loc>
+    <lastmod>2019-09-28T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/tags/ubuntu/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/ufw-list-rules-in-ubuntu-machine/</loc>
+    <lastmod>2019-09-21T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-firewall/</loc>
+    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
+  </url>
+  
+</urlset>

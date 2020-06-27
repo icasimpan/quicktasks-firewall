@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Firewall | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-firewall/tags/</link>
+    <description>Recent content in Tags on Firewall | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Sep 2019 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-firewall/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>firewall</title>
+      <link>https://ismael.casimpan.com/quicktasks-firewall/tags/firewall/</link>
+      <pubDate>Sat, 28 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-firewall/tags/firewall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firewalld</title>
+      <link>https://ismael.casimpan.com/quicktasks-firewall/tags/firewalld/</link>
+      <pubDate>Sat, 28 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-firewall/tags/firewalld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iptables</title>
+      <link>https://ismael.casimpan.com/quicktasks-firewall/tags/iptables/</link>
+      <pubDate>Sat, 28 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-firewall/tags/iptables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rich-rules</title>
+      <link>https://ismael.casimpan.com/quicktasks-firewall/tags/rich-rules/</link>
+      <pubDate>Sat, 28 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-firewall/tags/rich-rules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>specific-ip</title>
+      <link>https://ismael.casimpan.com/quicktasks-firewall/tags/specific-ip/</link>
+      <pubDate>Sat, 28 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-firewall/tags/specific-ip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssh</title>
+      <link>https://ismael.casimpan.com/quicktasks-firewall/tags/ssh/</link>
+      <pubDate>Sat, 28 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-firewall/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ufw</title>
+      <link>https://ismael.casimpan.com/quicktasks-firewall/tags/ufw/</link>
+      <pubDate>Sat, 28 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-firewall/tags/ufw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://ismael.casimpan.com/quicktasks-firewall/tags/ubuntu/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-firewall/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
